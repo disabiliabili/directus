@@ -13,6 +13,7 @@
 		"@directus/sdk-js": "file:../sdk-js",
 		"@lnfusion/gatsby-source-graphql": "0.0.3",
 		"chalk": "^4.1.0",
+		"esm": "^3.2.25",
 		"invariant": "^2.2.4",
 		"ms": "^2.1.3"
 	},
